@@ -1,4 +1,4 @@
-package br.com.minhaapi;
+package br.com.minhaapi.controllers;
 
 import br.com.minhaapi.converters.NumberConverter;
 import br.com.minhaapi.exceptions.UnsupportedMathOperationException;
